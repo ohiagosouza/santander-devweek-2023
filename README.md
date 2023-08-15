@@ -103,12 +103,12 @@ Runs the app in the development mode.<br/>
 
 | [<img src="https://avatars.githubusercontent.com/u/105474434?v=4" height="100px"><br><sub>Hiago Souza</sub>](https://github.com/ohiagosouza) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/ohiagosouza)
+|                                             [Linkedin](https://www.linkedin.com/in/ohiagosouza)
 
 # Original
 | [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4" height="100px"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
+|                                             [Linkedin](https://www.linkedin.com/in/felipe-aguiar-exe)                                             |
 
 ---
 
