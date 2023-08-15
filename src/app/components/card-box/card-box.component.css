@@ -1,0 +1,57 @@
+.cardContainer {
+	color: white;
+	font-family: "Arial", sans-serif;
+	font-size: 20px;
+	border-radius: 12px;
+	background-color: #ed0000;
+	height: 220px;
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	padding: 10px 30px;
+}
+
+.cardLogo {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-right: 5px;
+	height: 10%;
+}
+
+.cardMiddle {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-top: 10%;
+	margin-left: 5px;
+}
+
+.cardNumber {
+	font-size: 24px;
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	height: 50%;
+}
+
+.cardMiddle > div {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	width: 100%;
+}
+
+.cardFooter {
+	font-size: 16px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.cardLimit {
+	display: flex;
+	justify-content: flex-start;
+	margin-left: 5px;
+	font-size: medium;
+}
