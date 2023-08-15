@@ -112,4 +112,4 @@ Runs the app in the development mode.<br/>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Hiago Souza](https://instagram.com/hiagosouza.dev)
