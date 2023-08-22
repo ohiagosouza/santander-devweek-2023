@@ -45,17 +45,6 @@
     </a>
     <br />
     <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/
-		angular-santander-home-clone/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/felipeAguiarCode/
-			angular-santander-home-clone/issues/new">
-      Request Feature
-    </a>
   </p>
 </div>
 
